@@ -8,3 +8,4 @@ The program uses PyTorch, Transformers, Wikipedia, and Streamlit in addition to 
 
 A user enters in a search topic, to which the program pulls the Wikipedia summary of. Then, the user can ask a query about the topic. The program then uses the model to digest the user's input, find an answer, and spit it back out.
 
+Please visit 'Branches' (next to the 'main' button)-> 'master' and you should see the python file.
